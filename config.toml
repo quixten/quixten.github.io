@@ -62,7 +62,7 @@ publishDir   = "docs"
 
   [[params.social]]
     name = "twitch"
-    url  = "https://twitch.tw/wextrionis"
+    url  = "https://twitch.tv/wextrionis"
 
   [[params.social]]
     name = "pixiv"
