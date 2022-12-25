@@ -1,8 +1,9 @@
-baseurl      = "localhost"
+baseurl      = "https://quixten.github.io"
 title        = "My Blog"
 languageCode = "ja"
 theme        = "hello-friend-ng"
 paginate     = 10
+publishDir   = "docs"
 
 [params]
   dateform        = "Jan 2, 2006"
