@@ -1,5 +1,5 @@
 baseurl      = "https://quixten.github.io"
-title        = "My Blog"
+title        = ""
 languageCode = "ja"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -21,7 +21,7 @@ publishDir   = "docs"
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "“To live is to war with trolls in heart and soul. To write is to sit in judgement on oneself.” ― Henrik Ibsen"
   keywords = "homepage, blog"
   images = [""]
 
