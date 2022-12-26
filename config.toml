@@ -49,7 +49,7 @@ publishDir   = "docs"
   # And you can even create generic menu
   [[menu.main]]
     identifier = "tes"
-    name       = "scribblings"
+    name       = "scroll-scribblings"
     url        = "/tes/"
 
   [[params.social]]
