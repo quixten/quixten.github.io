@@ -18,7 +18,7 @@ publishDir   = "docs"
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Metadata mostly used in document's head
   description = "“To live is to war with trolls in heart and soul. To write is to sit in judgement on oneself.” ― Henrik Ibsen"

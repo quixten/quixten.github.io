@@ -1,5 +1,3 @@
-@import url('/type/rodin.otf');
-
 html {
   box-sizing: border-box;
   line-height: 1.6;
@@ -441,4 +439,16 @@ hr {
   height: 24px;
   vertical-align: middle;
   margin-right: 24px
+}
+
+#mikediv {
+  position: absolute;
+  bottom: 3vh;
+  right: 3vh;
+  opacity: 2%;
+}
+
+#mikediv:hover {
+  opacity: 100%;
+  transition: opacity 1s;
 }

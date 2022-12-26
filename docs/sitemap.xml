@@ -2,10 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://quixten.github.io/categories/</loc>
+    <loc>https://quixten.github.io/cat/</loc>
+    <lastmod>2022-12-25T16:53:50-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/posts/</loc>
+    <lastmod>2022-12-25T16:53:50-08:00</lastmod>
   </url><url>
     <loc>https://quixten.github.io/tags/</loc>
+    <lastmod>2022-12-25T16:53:50-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/posts/test/</loc>
+    <lastmod>2022-12-25T16:53:50-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/tags/untagged/</loc>
+    <lastmod>2022-12-25T16:53:50-08:00</lastmod>
   </url><url>
     <loc>https://quixten.github.io/</loc>
+    <lastmod>2022-12-25T16:53:50-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/cat/hello/</loc>
+    <lastmod>2022-12-25T16:53:50-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/categories/</loc>
   </url>
 </urlset>
