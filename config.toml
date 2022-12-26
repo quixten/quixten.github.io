@@ -48,9 +48,9 @@ publishDir   = "docs"
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = ""
-    name       = ""
-    url        = "/"
+    identifier = "tes"
+    name       = "scribblings"
+    url        = "/tes/"
 
   [[params.social]]
     name = "twitter"

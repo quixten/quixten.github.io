@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://quixten.github.io/tes/new-mancies-new-fancies/</loc>
+    <lastmod>2022-12-26T06:33:52-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/tes/</loc>
+    <lastmod>2022-12-26T06:33:52-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/</loc>
+    <lastmod>2022-12-26T06:33:52-08:00</lastmod>
+  </url><url>
     <loc>https://quixten.github.io/cat/</loc>
     <lastmod>2022-12-25T16:53:50-08:00</lastmod>
   </url><url>
@@ -15,9 +24,6 @@
     <lastmod>2022-12-25T16:53:50-08:00</lastmod>
   </url><url>
     <loc>https://quixten.github.io/tags/untagged/</loc>
-    <lastmod>2022-12-25T16:53:50-08:00</lastmod>
-  </url><url>
-    <loc>https://quixten.github.io/</loc>
     <lastmod>2022-12-25T16:53:50-08:00</lastmod>
   </url><url>
     <loc>https://quixten.github.io/cat/hello/</loc>
