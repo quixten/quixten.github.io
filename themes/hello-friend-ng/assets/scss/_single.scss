@@ -232,3 +232,20 @@
     margin-right: 8px;
   }
 }
+
+.popout-hover {
+  display: none;
+}
+
+.popout-normal:hover + .popout-hover {
+  display: block;
+  position:absolute;
+  height: 600px;
+  right: 0px;
+  transform:translateX(calc(50% - (50vw - 400px) + ((100vw - 800px) / 2 / 2)));
+  bottom: 0px;
+}
+
+.popout-normal {
+  user-select: none;
+}

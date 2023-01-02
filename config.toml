@@ -5,6 +5,9 @@ theme        = "hello-friend-ng"
 paginate     = 10
 publishDir   = "docs"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -48,9 +51,9 @@ publishDir   = "docs"
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "tes"
-    name       = "scroll-scribblings"
-    url        = "/tes/"
+    identifier = ""
+    name       = ""
+    url        = ""
 
   [[params.social]]
     name = "twitter"

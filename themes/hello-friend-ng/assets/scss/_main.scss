@@ -452,3 +452,20 @@ hr {
   opacity: 100%;
   transition: opacity 1s;
 }
+
+#tesdiv {
+  position: absolute;
+  top: calc(3vh + 68px);
+  right: 3vh;
+  opacity: 8%;
+}
+
+#tesdiv:hover {
+  opacity: 100%;
+  transition: opacity 1s;
+}
+
+.camo {
+  color: inherit;
+  text-decoration: none;
+}
