@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kuis on どうも</title>
+    <link>https://quixten.github.io/kui/</link>
+    <description>Recent content in Kuis on どうも</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 01 Jan 2023 02:29:00 -0800</lastBuildDate><atom:link href="https://quixten.github.io/kui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Repertoire</title>
+      <link>https://quixten.github.io/kui/shoppinglist/</link>
+      <pubDate>Sun, 01 Jan 2023 02:29:00 -0800</pubDate>
+      
+      <guid>https://quixten.github.io/kui/shoppinglist/</guid>
+      <description>Here is contained merely a list of the things in the kitchen that I like. It&amp;rsquo;s not comprehensive, and it wasn&amp;rsquo;t really meant to be seen, but it doesn&amp;rsquo;t need to be hidden either, and this is a convenient spot for it. This list exists solely to help me marshall my thoughts when it comes to stocking my pantry. I&amp;rsquo;ll also potentially list things I could make from the things, and if I feel like it I&amp;rsquo;ll record recipes.</description>
+    </item>
+    
+  </channel>
+</rss>

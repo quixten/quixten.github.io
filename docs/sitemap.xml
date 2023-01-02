@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://quixten.github.io/cat/cake/</loc>
-    <lastmod>2022-12-26T08:14:46-08:00</lastmod>
-  </url><url>
     <loc>https://quixten.github.io/cat/</loc>
-    <lastmod>2022-12-26T08:14:46-08:00</lastmod>
+    <lastmod>2023-01-02T11:16:21-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/cat/love/</loc>
+    <lastmod>2023-01-02T11:16:21-08:00</lastmod>
   </url><url>
     <loc>https://quixten.github.io/</loc>
+    <lastmod>2023-01-02T11:16:21-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/kui/</loc>
+    <lastmod>2023-01-01T02:29:00-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/kui/shoppinglist/</loc>
+    <lastmod>2023-01-01T02:29:00-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/cat/cake/</loc>
     <lastmod>2022-12-26T08:14:46-08:00</lastmod>
   </url><url>
     <loc>https://quixten.github.io/tes/new-mancies-new-fancies/</loc>
