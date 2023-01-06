@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://quixten.github.io/cat/</loc>
-    <lastmod>2023-01-03T20:57:54-08:00</lastmod>
+    <loc>https://quixten.github.io/tes/</loc>
+    <lastmod>2023-01-06T11:06:38-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/cat/ok/</loc>
-    <lastmod>2023-01-03T20:57:54-08:00</lastmod>
+    <loc>https://quixten.github.io/tes/wheel-of-stone-strength-of-bone/</loc>
+    <lastmod>2023-01-06T11:06:38-08:00</lastmod>
   </url><url>
     <loc>https://quixten.github.io/</loc>
+    <lastmod>2023-01-06T11:06:38-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/cat/dreams/</loc>
+    <lastmod>2023-01-06T11:00:07-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/cat/</loc>
+    <lastmod>2023-01-06T11:00:07-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/kui/</loc>
+    <lastmod>2023-01-06T06:07:52-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/kui/tamesi/</loc>
+    <lastmod>2023-01-06T06:07:52-08:00</lastmod>
+  </url><url>
+    <loc>https://quixten.github.io/cat/ok/</loc>
     <lastmod>2023-01-03T20:57:54-08:00</lastmod>
   </url><url>
     <loc>https://quixten.github.io/cat/pray/</loc>
@@ -17,9 +32,6 @@
     <loc>https://quixten.github.io/cat/love/</loc>
     <lastmod>2023-01-02T11:16:21-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/kui/</loc>
-    <lastmod>2023-01-01T02:29:00-08:00</lastmod>
-  </url><url>
     <loc>https://quixten.github.io/kui/shoppinglist/</loc>
     <lastmod>2023-01-01T02:29:00-08:00</lastmod>
   </url><url>
@@ -27,9 +39,6 @@
     <lastmod>2022-12-26T08:14:46-08:00</lastmod>
   </url><url>
     <loc>https://quixten.github.io/tes/new-mancies-new-fancies/</loc>
-    <lastmod>2022-12-26T06:33:52-08:00</lastmod>
-  </url><url>
-    <loc>https://quixten.github.io/tes/</loc>
     <lastmod>2022-12-26T06:33:52-08:00</lastmod>
   </url><url>
     <loc>https://quixten.github.io/posts/</loc>
