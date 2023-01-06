@@ -1,5 +1,5 @@
 ---
-title: "Wheel of Stone, Strength of Bone"
+title: "Walk Alone, Strength of Bone"
 date: 2023-01-06T11:06:38-08:00
 draft: false
 ---
