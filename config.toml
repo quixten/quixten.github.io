@@ -64,9 +64,5 @@ publishDir   = "docs"
     url  = "https://tech.lgbt/@quix"
 
   [[params.social]]
-    name = "twitch"
-    url  = "https://twitch.tv/wextrionis"
-
-  [[params.social]]
     name = "pixiv"
     url  = "https://www.pixiv.net/en/users/13272918"

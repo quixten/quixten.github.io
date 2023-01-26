@@ -8,5 +8,9 @@ draft: false
 
 - 飲み物
 	- アルコール入れてる物
+		- ビターズ
+			- Bittermens Xocolatl Mole <span class="popout-normal">&#x1F50E;&#xFE0E;</span><img src="/img/kui/bittermens_xocolatl.png" class="popout-hover"/>
+		- 火酒
+			- Plantation Rum <span class="popout-normal">&#x1F50E;&#xFE0E;</span><img src="/img/kui/plantation.png" class="popout-hover"/>
 		- リキュール
 			- Mr. Black <span class="popout-normal">&#x1F50E;&#xFE0E;</span><img src="/img/kui/mrblack.png" class="popout-hover"/>
