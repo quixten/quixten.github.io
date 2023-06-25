@@ -60,6 +60,10 @@ publishDir   = "docs"
     url  = "https://twitter.com/9u19su"
 
   [[params.social]]
+    name = "twitch"
+    url  = "https://twitch.tv/quix_9u19su"
+
+  [[params.social]]
     name = "mastodon"
     url  = "https://tech.lgbt/@quix"
 
