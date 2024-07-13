@@ -29,7 +29,6 @@ A quesadilla should generally have at least one protein and one condiment or sau
 Proteins:
 
 - Cooked strips of meat
-  - Fajitas
   - Chicken Breast
   - Steak
   - Tonkatsu/Schnitzel
