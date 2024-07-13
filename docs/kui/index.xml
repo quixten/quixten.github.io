@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kuis on どうも</title>
-    <link>https://quixten.github.io/kui/</link>
+    <link>http://localhost:1313/kui/</link>
     <description>Recent content in Kuis on どうも</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 08 Jul 2024 05:52:36 -0700</lastBuildDate>
-    <atom:link href="https://quixten.github.io/kui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jul 2024 10:30:16 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/kui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fajitas</title>
+      <link>http://localhost:1313/kui/fajitas/</link>
+      <pubDate>Sat, 13 Jul 2024 10:30:16 -0700</pubDate>
+      <guid>http://localhost:1313/kui/fajitas/</guid>
+      <description>Fajitas are a Tex-Mex food composed largely of protein and veggies, cut into strips and cooked together. The standard ingredients are skirt steak (diaphragm), onion, and chili pepper. The standard way to eat them is rolled in a tortilla with or without condiments.&#xA;Fajitas are an effective way to produce a substantial amount of tasty bulk to eat over the course of a week. They can be refrigerated and used in a variety of ways.</description>
+    </item>
     <item>
       <title>Quesadillas</title>
-      <link>https://quixten.github.io/kui/dillas/</link>
+      <link>http://localhost:1313/kui/dillas/</link>
       <pubDate>Mon, 08 Jul 2024 05:52:36 -0700</pubDate>
-      <guid>https://quixten.github.io/kui/dillas/</guid>
+      <guid>http://localhost:1313/kui/dillas/</guid>
       <description>The basic procedure for creating a quesadilla is as follows:&#xA;Have a large tortilla, shredded cheese of a reasonably meltable variety, add-ins, and sauces ready.&#xA;Place tortilla on a hot cooking surface. A large, nonstick flat bottom pan or wok works well. Whatever you use, you should be able to cover the food to trap steam for best results. Heat should be medium or medium-low. If browning of tortilla fails to happen fast enough, adjust upward.</description>
     </item>
     <item>
       <title>Spices</title>
-      <link>https://quixten.github.io/kui/spices/</link>
+      <link>http://localhost:1313/kui/spices/</link>
       <pubDate>Sun, 25 Jun 2023 12:44:44 -0700</pubDate>
-      <guid>https://quixten.github.io/kui/spices/</guid>
+      <guid>http://localhost:1313/kui/spices/</guid>
       <description>Spice mixes of my own I have tested and the results of those tests:&#xA;Spicy-Sharp Alchemy Powder Cajun Spice Mix,&#x9;3部 七味唐辛子,&#x9;6部 고춧가루,&#x9;1部 Garlic Powder, 1部 出汁パウダー,&#x9;1部 A sharp, spicy mix that is, because of its high ratio of 七味唐辛子, quite adjacent to that, but spicier and more rounded. Excellent as a blackening spice for chicken.</description>
     </item>
   </channel>

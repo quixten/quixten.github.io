@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Untagged on どうも</title>
-    <link>https://quixten.github.io/tags/untagged/</link>
+    <link>http://localhost:1313/tags/untagged/</link>
     <description>Recent content in Untagged on どうも</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 25 Dec 2022 16:53:50 -0800</lastBuildDate>
-    <atom:link href="https://quixten.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://quixten.github.io/posts/test/</link>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Sun, 25 Dec 2022 16:53:50 -0800</pubDate>
-      <guid>https://quixten.github.io/posts/test/</guid>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>Hello you&amp;rsquo;ve found my blog page</description>
     </item>
   </channel>

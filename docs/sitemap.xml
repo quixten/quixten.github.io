@@ -2,60 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://quixten.github.io/kui/</loc>
-    <lastmod>2024-07-09T07:20:40-07:00</lastmod>
+    <loc>http://localhost:1313/kui/fajitas/</loc>
+    <lastmod>2024-07-13T10:30:16-07:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/</loc>
-    <lastmod>2024-07-09T07:20:40-07:00</lastmod>
+    <loc>http://localhost:1313/kui/</loc>
+    <lastmod>2024-07-13T10:30:16-07:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/kui/dillas/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-13T10:30:16-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kui/dillas/</loc>
     <lastmod>2024-07-08T05:52:36-07:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/tes/a-queer-meeting/</loc>
+    <loc>http://localhost:1313/tes/a-queer-meeting/</loc>
     <lastmod>2024-03-04T12:56:22-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/tes/</loc>
+    <loc>http://localhost:1313/tes/</loc>
     <lastmod>2024-03-04T12:56:22-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/kui/spices/</loc>
+    <loc>http://localhost:1313/kui/spices/</loc>
     <lastmod>2023-06-25T12:44:44-07:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/cat/</loc>
+    <loc>http://localhost:1313/cat/</loc>
     <lastmod>2023-01-07T00:28:17-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/cat/%E9%AC%B1/</loc>
+    <loc>http://localhost:1313/cat/%E9%AC%B1/</loc>
     <lastmod>2023-01-07T00:28:17-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/tes/walk-alone-strength-of-bone/</loc>
+    <loc>http://localhost:1313/tes/walk-alone-strength-of-bone/</loc>
     <lastmod>2023-01-06T11:06:38-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/cat/dreams/</loc>
+    <loc>http://localhost:1313/cat/dreams/</loc>
     <lastmod>2023-01-06T11:00:07-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/cat/love/</loc>
+    <loc>http://localhost:1313/cat/love/</loc>
     <lastmod>2023-01-02T11:16:21-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/cat/cake/</loc>
+    <loc>http://localhost:1313/cat/cake/</loc>
     <lastmod>2022-12-26T08:14:46-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/tes/new-mancies-new-fancies/</loc>
+    <loc>http://localhost:1313/tes/new-mancies-new-fancies/</loc>
     <lastmod>2022-12-26T06:33:52-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2022-12-25T16:53:50-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-12-25T16:53:50-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/posts/test/</loc>
+    <loc>http://localhost:1313/posts/test/</loc>
     <lastmod>2022-12-25T16:53:50-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/tags/untagged/</loc>
+    <loc>http://localhost:1313/tags/untagged/</loc>
     <lastmod>2022-12-25T16:53:50-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/cat/hello/</loc>
+    <loc>http://localhost:1313/cat/hello/</loc>
     <lastmod>2022-12-25T16:53:50-08:00</lastmod>
   </url><url>
-    <loc>https://quixten.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
