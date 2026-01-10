@@ -2,8 +2,10 @@ baseurl      = "https://quixten.github.io"
 title        = ""
 languageCode = "ja"
 theme        = "hello-friend-ng"
-paginate     = 10
 publishDir   = "docs"
+
+[pagination]
+pageSize = 10
 
 [markup.goldmark.renderer]
   unsafe= true

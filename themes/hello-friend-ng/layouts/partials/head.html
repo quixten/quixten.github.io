@@ -31,7 +31,9 @@
     type="text/css">
 
 {{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "enableSourceMap" true) }}
-{{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options | resources.Fingerprint }}
+{{ $options := dict "transpiler" "libsass" "targetPath" "css/main.css" "enableSourceMap" (not hugo.IsProduction) }}
+{{ $style := resources.Get "scss/main.scss" | css.Sass $options | resources.Fingerprint }}
+
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
 {{ range $val := $.Site.Params.customCSS }}
